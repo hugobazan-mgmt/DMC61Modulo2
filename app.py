@@ -126,9 +126,9 @@ if modulo == "1. Home (Presentación)":
         
         ---
         ### 👨‍💻 Datos del Autor
-        * **Nombre Completo:** Hugo Bazán
+        * **Nombre Completo:** Hugo Bazán Bravo
         * **Programa:** Especialización en Python for Analytics
-        * **Institución:** DMC
+        * **Institución:** DMC 
         * **Año:** 2026
         
         ---
